@@ -116,9 +116,13 @@ header{
 	display:inline-block;
 	
 }
-.skill-nav ul li a{
+.skill-nav ul li button{
 	display:block;
 	padding: 10px 18px;
+	background-color:transparent;
+	border:none;
+	outline:none;
+	font-size:1em;
 }
 .skill-container:after{
 	content:"";
